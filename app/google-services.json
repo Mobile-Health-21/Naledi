@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "457674114253",
+    "firebase_url": "https://naledi-e7a98.firebaseio.com",
+    "project_id": "naledi-e7a98",
+    "storage_bucket": "naledi-e7a98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457674114253:android:5a0d89d15358d6cfc5d584",
+        "android_client_info": {
+          "package_name": "com.example.mobilehealthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457674114253-uph72s57mq701k3f9dmq737d4e7gscd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qZ0yZBc0puTiTpsBa1SJDkrCy09Fe4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457674114253-uph72s57mq701k3f9dmq737d4e7gscd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457674114253:android:79c85077b4ea173bc5d584",
+        "android_client_info": {
+          "package_name": "com.example.naledi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457674114253-uph72s57mq701k3f9dmq737d4e7gscd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qZ0yZBc0puTiTpsBa1SJDkrCy09Fe4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457674114253-uph72s57mq701k3f9dmq737d4e7gscd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

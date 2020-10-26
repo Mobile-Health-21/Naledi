@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Naledi</string>
+    <string name="email_icon">email icon</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="password_icon">password icon</string>
+    <string name="login">Login</string>
+    <string name="new_user_register">New user? Register</string>
+    <string name="name_icon">Name icon</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="loading">Loading</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
 </resources>
