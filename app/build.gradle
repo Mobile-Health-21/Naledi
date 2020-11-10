@@ -8,11 +8,11 @@ android {
     defaultConfig {
         applicationId "com.example.naledi"
         minSdkVersion 26
-<<<<<<< Updated upstream
+
         targetSdkVersion 28
-=======
+
         targetSdkVersion 27
->>>>>>> Stashed changes
+
         versionCode 1
         versionName "1.0"
 
@@ -34,6 +34,8 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:25.12.0')
     implementation 'com.google.firebase:firebase-analytics'
     implementation 'com.google.firebase:firebase-auth'
+    implementation 'com.google.android.material:material:1.2.1'
+    implementation 'androidx.drawerlayout:drawerlayout:1.0.0'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'

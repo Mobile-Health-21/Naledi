@@ -75,6 +75,9 @@ public class Auth extends AppCompatActivity {
                 public void onComplete(@NonNull Task<AuthResult> task) {
                     if(task.isSuccessful()) {
                         loadingCard.stopLoading();
+
+                        Intent intent = new Intent(Auth.this, Home.class);
+                        startActivity(intent);
                         Toast.makeText(Auth.this, "Your Logged in", Toast.LENGTH_LONG).show();
                     } else {
                         loadingCard.stopLoading();
