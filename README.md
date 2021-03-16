@@ -2,7 +2,6 @@
 # Description
 This app is used for rating the quality of service that a patient received at a public health institution. It was submitted as a community project under the Google Africa Developer Scholarship 2020 program.
 
-# Repository https://github.com/Mobile-Health-21/Naledi/
 # Demo https://youtu.be/0A5eylGz0z0
 
 # Tools
